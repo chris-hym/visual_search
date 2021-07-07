@@ -1,0 +1,3 @@
+This program will visually serach an image collection using Matlab. The visual search engine retrieve similar images for a selected query image from the dataset of 591 images of 20 classes. 
+
+Users can change the descriptor used inside the cvpr_visualsearch program and the way of distance measurement inside the cvpr_visualsearch program.The top 15 closest images and evaluation curve will be dispalyed on the screen.
